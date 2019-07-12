@@ -1,0 +1,3 @@
+/home/centos/psniffer/build/CMakeFiles/rebuild_cache.dir
+/home/centos/psniffer/build/CMakeFiles/edit_cache.dir
+/home/centos/psniffer/build/CMakeFiles/projectPSniffer.dir
